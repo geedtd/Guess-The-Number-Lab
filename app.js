@@ -8,4 +8,4 @@ const game = {
         (this.biggestNum - this.smallestNum + 1)) + this.smallestNum
     }
   }
-  
+  //https://github.com/geedtd/Guess-The-Number-Lab.git
