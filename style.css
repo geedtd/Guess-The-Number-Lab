@@ -1,4 +1,18 @@
+body {
+    background-color: darkcyan;
+}
 h1 {
     color: rgb(70, 70, 190);
     text-align: center;
+}
+#container {
+    border: 5px solid #f5e4c3;
+    margin: auto;
+    text-align: center;
+    width: 750px;
+    height: 275px;
+    
+}
+p {
+    color: whitesmoke;
 }
